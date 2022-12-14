@@ -57,8 +57,7 @@ https://images.app.goo.gl/5FsWSXJg2QKryHMv5
 - sonar.csv
 - Pima Indian Diabetes.csv
 - Australian Credit.csv
-## Authors
+## Author
 
 - Ayush Dwivedi V21093
-- Syed Rizwan T22113
 
